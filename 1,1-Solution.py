@@ -1,3 +1,3 @@
-full_name = 'Tô Khang'
-age = 14
-is_new = True
+full_name = 'Tô Khang' #Strings
+age = 14 #int
+is_new = True #boolean
